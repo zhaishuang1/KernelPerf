@@ -1,0 +1,1860 @@
+Node 0, zone      DMA
+  per-node stats
+      nr_inactive_anon 28033
+      nr_active_anon 190
+      nr_inactive_file 68412
+      nr_active_file 46702
+      nr_unevictable 768
+      nr_slab_reclaimable 15779
+      nr_slab_unreclaimable 42362
+      nr_isolated_anon 0
+      nr_isolated_file 0
+      workingset_nodes 0
+      workingset_refault_anon 0
+      workingset_refault_file 0
+      workingset_activate_anon 0
+      workingset_activate_file 0
+      workingset_restore_anon 0
+      workingset_restore_file 0
+      workingset_nodereclaim 0
+      nr_anon_pages 22066
+      nr_mapped    46520
+      nr_file_pages 121931
+      nr_dirty     216
+      nr_writeback 0
+      nr_writeback_temp 0
+      nr_shmem     6935
+      nr_shmem_hugepages 0
+      nr_shmem_pmdmapped 0
+      nr_file_hugepages 0
+      nr_file_pmdmapped 0
+      nr_anon_transparent_hugepages 0
+      nr_vmscan_write 0
+      nr_vmscan_immediate_reclaim 0
+      nr_dirtied   104888817
+      nr_written   104882112
+      nr_kernel_misc_reclaimable 0
+      nr_foll_pin_acquired 0
+      nr_foll_pin_released 0
+      nr_kernel_stack 10808
+      nr_page_table_pages 4103
+      nr_swapcached 0
+  pages free     2812
+        min      0
+        low      3
+        high     6
+        spanned  4095
+        present  3990
+        managed  3840
+        cma      0
+        protection: (0, 1399, 191838, 191838, 191838)
+      nr_free_pages 2812
+      nr_zone_inactive_anon 0
+      nr_zone_active_anon 0
+      nr_zone_inactive_file 0
+      nr_zone_active_file 0
+      nr_zone_unevictable 0
+      nr_zone_write_pending 0
+      nr_mlock     0
+      nr_bounce    0
+      nr_zspages   0
+      nr_free_cma  0
+      numa_hit     2
+      numa_miss    0
+      numa_foreign 0
+      numa_interleave 1
+      numa_local   2
+      numa_other   0
+  pagesets
+    cpu: 0
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 1
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 2
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 3
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 4
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 5
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 6
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 7
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 8
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 9
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 10
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 11
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 12
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 13
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 14
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 15
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 16
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 17
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 18
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 19
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 20
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 21
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 22
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 23
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 24
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 25
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 26
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 27
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 28
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 29
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 30
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 31
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 32
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 33
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 34
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 35
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 36
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 37
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 38
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 39
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 40
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 41
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 42
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 43
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 44
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 45
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 46
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 47
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 48
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 49
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 50
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 51
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 52
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 53
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 54
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 55
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 56
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 57
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 58
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 59
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 60
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 61
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 62
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 63
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 64
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 65
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 66
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 67
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 68
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 69
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 70
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 71
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 72
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 73
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 74
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 75
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 76
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 77
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 78
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+    cpu: 79
+              count: 0
+              high:  4
+              batch: 1
+  vm stats threshold: 14
+  node_unreclaimable:  0
+  start_pfn:           1
+Node 0, zone    DMA32
+  pages free     360578
+        min      82
+        low      440
+        high     798
+        spanned  1044480
+        present  380416
+        managed  364032
+        cma      0
+        protection: (0, 0, 190439, 190439, 190439)
+      nr_free_pages 360578
+      nr_zone_inactive_anon 0
+      nr_zone_active_anon 0
+      nr_zone_inactive_file 0
+      nr_zone_active_file 0
+      nr_zone_unevictable 0
+      nr_zone_write_pending 0
+      nr_mlock     0
+      nr_bounce    0
+      nr_zspages   0
+      nr_free_cma  0
+      numa_hit     977
+      numa_miss    0
+      numa_foreign 0
+      numa_interleave 1
+      numa_local   977
+      numa_other   0
+  pagesets
+    cpu: 0
+              count: 101
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 1
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 2
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 3
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 4
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 5
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 6
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 7
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 8
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 9
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 10
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 11
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 12
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 13
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 14
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 15
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 16
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 17
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 18
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 19
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 20
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 21
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 22
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 23
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 24
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 25
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 26
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 27
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 28
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 29
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 30
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 31
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 32
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 33
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 34
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 35
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 36
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 37
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 38
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 39
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 40
+              count: 135
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 41
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 42
+              count: 63
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 43
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 44
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 45
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 46
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 47
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 48
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 49
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 50
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 51
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 52
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 53
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 54
+              count: 62
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 55
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 56
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 57
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 58
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 59
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 60
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 61
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 62
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 63
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 64
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 65
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 66
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 67
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 68
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 69
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 70
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 71
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 72
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 73
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 74
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 75
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 76
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 77
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 78
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+    cpu: 79
+              count: 0
+              high:  252
+              batch: 63
+  vm stats threshold: 70
+  node_unreclaimable:  0
+  start_pfn:           4096
+Node 0, zone   Normal
+  pages free     48363509
+        min      11176
+        low      59928
+        high     108680
+        spanned  49545216
+        present  49545216
+        managed  48754216
+        cma      0
+        protection: (0, 0, 0, 0, 0)
+      nr_free_pages 48363509
+      nr_zone_inactive_anon 28033
+      nr_zone_active_anon 190
+      nr_zone_inactive_file 68412
+      nr_zone_active_file 46702
+      nr_zone_unevictable 768
+      nr_zone_write_pending 216
+      nr_mlock     0
+      nr_bounce    0
+      nr_zspages   0
+      nr_free_cma  0
+      numa_hit     94068778
+      numa_miss    0
+      numa_foreign 0
+      numa_interleave 30098
+      numa_local   94068739
+      numa_other   39
+  pagesets
+    cpu: 0
+              count: 586
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 1
+              count: 998
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 2
+              count: 1265
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 3
+              count: 1384
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 4
+              count: 1039
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 5
+              count: 446
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 6
+              count: 810
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 7
+              count: 1368
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 8
+              count: 457
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 9
+              count: 1419
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 10
+              count: 376
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 11
+              count: 895
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 12
+              count: 932
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 13
+              count: 532
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 14
+              count: 1421
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 15
+              count: 1006
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 16
+              count: 1396
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 17
+              count: 1394
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 18
+              count: 1419
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 19
+              count: 1047
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 20
+              count: 1443
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 21
+              count: 478
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 22
+              count: 505
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 23
+              count: 1353
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 24
+              count: 514
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 25
+              count: 1117
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 26
+              count: 1400
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 27
+              count: 566
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 28
+              count: 1451
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 29
+              count: 1200
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 30
+              count: 1391
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 31
+              count: 1271
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 32
+              count: 1486
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 33
+              count: 1361
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 34
+              count: 1405
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 35
+              count: 1301
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 36
+              count: 1445
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 37
+              count: 1349
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 38
+              count: 1413
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 39
+              count: 528
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 40
+              count: 1492
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 41
+              count: 1176
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 42
+              count: 1276
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 43
+              count: 957
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 44
+              count: 234
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 45
+              count: 1216
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 46
+              count: 691
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 47
+              count: 1239
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 48
+              count: 1451
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 49
+              count: 1303
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 50
+              count: 688
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 51
+              count: 635
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 52
+              count: 834
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 53
+              count: 1343
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 54
+              count: 1242
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 55
+              count: 1315
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 56
+              count: 619
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 57
+              count: 993
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 58
+              count: 1493
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 59
+              count: 1344
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 60
+              count: 589
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 61
+              count: 974
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 62
+              count: 1384
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 63
+              count: 449
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 64
+              count: 1389
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 65
+              count: 1139
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 66
+              count: 622
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 67
+              count: 897
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 68
+              count: 905
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 69
+              count: 1103
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 70
+              count: 1224
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 71
+              count: 851
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 72
+              count: 1482
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 73
+              count: 1441
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 74
+              count: 1093
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 75
+              count: 1196
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 76
+              count: 1453
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 77
+              count: 1041
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 78
+              count: 1442
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+    cpu: 79
+              count: 784
+              high:  1498
+              batch: 63
+  vm stats threshold: 125
+  node_unreclaimable:  0
+  start_pfn:           1048576
+Node 0, zone  Movable
+  pages free     0
+        min      0
+        low      0
+        high     0
+        spanned  0
+        present  0
+        managed  0
+        cma      0
+        protection: (0, 0, 0, 0, 0)
+Node 0, zone   Device
+  pages free     0
+        min      0
+        low      0
+        high     0
+        spanned  0
+        present  0
+        managed  0
+        cma      0
+        protection: (0, 0, 0, 0, 0)
+Node 1, zone      DMA
+  pages free     0
+        min      0
+        low      0
+        high     0
+        spanned  0
+        present  0
+        managed  0
+        cma      0
+        protection: (0, 0, 0, 0, 0)
+Node 1, zone    DMA32
+  pages free     0
+        min      0
+        low      0
+        high     0
+        spanned  0
+        present  0
+        managed  0
+        cma      0
+        protection: (0, 0, 0, 0, 0)
+Node 1, zone   Normal
+  per-node stats
+      nr_inactive_anon 28
+      nr_active_anon 61
+      nr_inactive_file 13133
+      nr_active_file 9592
+      nr_unevictable 0
+      nr_slab_reclaimable 3719
+      nr_slab_unreclaimable 15486
+      nr_isolated_anon 0
+      nr_isolated_file 0
+      workingset_nodes 0
+      workingset_refault_anon 0
+      workingset_refault_file 0
+      workingset_activate_anon 0
+      workingset_activate_file 0
+      workingset_restore_anon 0
+      workingset_restore_file 0
+      workingset_nodereclaim 0
+      nr_anon_pages 0
+      nr_mapped    137
+      nr_file_pages 22828
+      nr_dirty     0
+      nr_writeback 0
+      nr_writeback_temp 0
+      nr_shmem     89
+      nr_shmem_hugepages 0
+      nr_shmem_pmdmapped 0
+      nr_file_hugepages 0
+      nr_file_pmdmapped 0
+      nr_anon_transparent_hugepages 0
+      nr_vmscan_write 0
+      nr_vmscan_immediate_reclaim 0
+      nr_dirtied   247
+      nr_written   247
+      nr_kernel_misc_reclaimable 0
+      nr_foll_pin_acquired 0
+      nr_foll_pin_released 0
+      nr_kernel_stack 5368
+      nr_page_table_pages 4
+      nr_swapcached 0
+  pages free     49010545
+        min      11268
+        low      60420
+        high     109572
+        spanned  49938432
+        present  49938432
+        managed  49152573
+        cma      0
+        protection: (0, 0, 0, 0, 0)
+      nr_free_pages 49010545
+      nr_zone_inactive_anon 28
+      nr_zone_active_anon 61
+      nr_zone_inactive_file 13133
+      nr_zone_active_file 9592
+      nr_zone_unevictable 0
+      nr_zone_write_pending 0
+      nr_mlock     0
+      nr_bounce    0
+      nr_zspages   0
+      nr_free_cma  0
+      numa_hit     194542
+      numa_miss    0
+      numa_foreign 0
+      numa_interleave 30741
+      numa_local   137297
+      numa_other   57245
+  pagesets
+    cpu: 0
+              count: 696
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 1
+              count: 1427
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 2
+              count: 52
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 3
+              count: 1470
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 4
+              count: 68
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 5
+              count: 1404
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 6
+              count: 68
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 7
+              count: 988
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 8
+              count: 20
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 9
+              count: 334
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 10
+              count: 48
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 11
+              count: 1063
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 12
+              count: 48
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 13
+              count: 1454
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 14
+              count: 906
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 15
+              count: 996
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 16
+              count: 36
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 17
+              count: 1139
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 18
+              count: 68
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 19
+              count: 911
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 20
+              count: 48
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 21
+              count: 509
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 22
+              count: 68
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 23
+              count: 1126
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 24
+              count: 48
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 25
+              count: 257
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 26
+              count: 48
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 27
+              count: 659
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 28
+              count: 115
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 29
+              count: 1378
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 30
+              count: 48
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 31
+              count: 1203
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 32
+              count: 50
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 33
+              count: 1039
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 34
+              count: 20
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 35
+              count: 1265
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 36
+              count: 76
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 37
+              count: 871
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 38
+              count: 24
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 39
+              count: 1121
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 40
+              count: 685
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 41
+              count: 1047
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 42
+              count: 48
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 43
+              count: 1232
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 44
+              count: 125
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 45
+              count: 450
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 46
+              count: 0
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 47
+              count: 333
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 48
+              count: 217
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 49
+              count: 1492
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 50
+              count: 100
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 51
+              count: 1257
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 52
+              count: 20
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 53
+              count: 1439
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 54
+              count: 68
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 55
+              count: 1245
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 56
+              count: 68
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 57
+              count: 1206
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 58
+              count: 4
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 59
+              count: 1482
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 60
+              count: 68
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 61
+              count: 879
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 62
+              count: 48
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 63
+              count: 1438
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 64
+              count: 68
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 65
+              count: 835
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 66
+              count: 303
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 67
+              count: 1003
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 68
+              count: 28
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 69
+              count: 1259
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 70
+              count: 68
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 71
+              count: 984
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 72
+              count: 134
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 73
+              count: 642
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 74
+              count: 48
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 75
+              count: 1021
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 76
+              count: 119
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 77
+              count: 1405
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 78
+              count: 48
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+    cpu: 79
+              count: 800
+              high:  1510
+              batch: 63
+  vm stats threshold: 125
+  node_unreclaimable:  0
+  start_pfn:           248905728
+Node 1, zone  Movable
+  pages free     0
+        min      0
+        low      0
+        high     0
+        spanned  0
+        present  0
+        managed  0
+        cma      0
+        protection: (0, 0, 0, 0, 0)
+Node 1, zone   Device
+  pages free     0
+        min      0
+        low      0
+        high     0
+        spanned  165150720
+        present  0
+        managed  0
+        cma      0
+        protection: (0, 0, 0, 0, 0)

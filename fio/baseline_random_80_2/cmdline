@@ -1,0 +1,1 @@
+BOOT_IMAGE=(hd0,msdos1)/vmlinuz-5.15.0+ root=UUID=9050c303-625c-4aac-a053-82842baccb4c ro resume=UUID=cc37515b-e27a-47b8-a6de-3f3668adc980 rhgb quiet audit=0 nosmap nosmep
